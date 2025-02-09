@@ -27,6 +27,6 @@ public class TallyingCoinTossExercise {
             }
         }
             System.out.println("\nNumber of heads: " + headCounter + "\nNumber of tails: "+ tailCounter);
-
+        System.exit(0);
     }
 }
